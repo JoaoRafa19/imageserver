@@ -1,3 +1,25 @@
 {
-    "data": []
+    "mates": [
+        {
+            "name": "Yuri Zocoli",
+            "avatar": "/assets/img/yuri.jpg",
+            "github": "https://github.com/YuriZocoli"
+        },
+        {
+            "name": "Kaique dos Santos",
+            "avatar": "/assets/img/kaique.jpg",
+            "github": "https://github.com/iQuezin"
+
+        },
+        {
+            "name": "Christian Sena",
+            "github": "https://github.com/christiansenagomes",
+            "avatar": "/assets/img/christian.jpg"
+        },
+        {
+            "name": "Yalle Ramos",
+            "github": "https://github.com/ieiou",
+            "avatar": "/assets/img/yalle.jpg"
+        }
+    ]
 }
